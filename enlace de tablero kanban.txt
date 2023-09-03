@@ -1,0 +1,8 @@
+enlace de tablero kanban
+https://trello.com/invite/b/CEk7yLX7/ATTI1bca6504739bf248e0339997434fdf615CCCE9FA/trabajo-final-gym
+lista de actividades
+generar el pseudocodigo
+crear lista de actividades con sus respectivos precios
+implementar la funcionalidad de elegir una actividad para saber su costo
+implementar la funcionalidad de volver al menu de actividades para ver otros precios.
+integrar el sistema a pagina principal del gimnasio.
